@@ -13,7 +13,7 @@ Here are the primary projects:
 | [ont-app/sparql-client](https://github.com/ont-app/sparql-client) | Porting the IGraph protocols to a SPARQL endpoint |
 | [ont-app/igraph-jena](https://github.com/ont-app/igraph-jena) | Porting the IGraph protocols to [Jena](https://jena.apache.org/) |
 | [ont-app/datascript-graph](https://github.com/ont-app/datascript-graph) | Porting the IGraph protocols to [tonsky/datascript](https://github.com/tonsky/datascript) |
-| [ont-app/grafter](https://github.com/ont-app/grafter) | Porting the IGraph protocols to [Swirrl/grafter](https://github.com/Swirrl/grafter) |
+| [ont-app/igraph-grafter](https://github.com/ont-app/igraph-grafter) | Porting the IGraph protocols to [Swirrl/grafter](https://github.com/Swirrl/grafter) |
 | [ont-app/datomic-client](https://github.com/ont-app/datomic-client) | Porting the IGraph protocols to the [datomic client](https://docs.datomic.com/cloud/client/client-api.html) |
 | [ont-app/graph-log](https://github.com/ont-app/graph-log) | Tools to log execution events to an IGraph implementation in addition to standard string-based logging |
 | [ont-app/cedict](https://github.com/ont-app/cedict) | An RDF translation of the Chinese-English dictionary [CEDICT](https://www.mdbg.net/chinese/dictionary?page=cedict)|
