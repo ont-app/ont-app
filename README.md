@@ -18,4 +18,4 @@ Here are the primary projects:
 | [ont-app/graph-log](https://github.com/ont-app/graph-log) | Tools to maintian a graph of execution events in addition to standard string-based logging |
 | [ont-app/cedict](https://github.com/ont-app/cedict) | An RDF translation of the Chinese-English dictionary [CEDICT](https://www.mdbg.net/chinese/dictionary?page=cedict)|
 | [ont-app/igraph-vocabulary](https://github.com/ont-app/igraph-vocabulary) | A layer of logic in Clojure to support libraries that use both `IGraph` and `vocabulary`|
-| [ont-app/rdf](https://github.com/ont-app/igraph-vocabulary) | A layer of logic in Clojure to support libraries that use both `IGraph` and RDF|
+| [ont-app/rdf](https://github.com/ont-app/rdf) | A layer of logic in Clojure to support libraries that use both `IGraph` and RDF|
